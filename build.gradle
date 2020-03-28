@@ -27,6 +27,7 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
+
 	//	this is need only for xml media type
 	//compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml'
 }
